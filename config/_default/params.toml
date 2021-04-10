@@ -48,7 +48,7 @@ local_business_type = ""
 org_name = "ACM Alexandria Student Chapter"
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = "My research group description."
+description = "Alexandria ACM Student Chapter | POWER to WHATEVER WORLD you live in."
 
 ############################
 ## Site Features
