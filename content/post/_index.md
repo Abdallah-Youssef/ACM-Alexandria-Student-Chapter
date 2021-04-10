@@ -1,14 +1,9 @@
 ---
-title: Latest News
-
-# View.
-#   1 = List
-#   2 = Compact
-#   3 = Card
+title: "ACM "
 view: 2
-
-# Optional header image (relative to `static/media/` folder).
 header:
   caption: ""
   image: ""
+date: 2021-04-10T13:42:03.520Z
 ---
+Alexandria Student Chapter
